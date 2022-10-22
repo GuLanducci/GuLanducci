@@ -3,6 +3,7 @@ ___________________________________________________
 -> 🌱 Estudante de Ciências da computação
 ___________________________________________________
 -> 💞️ nerd apaixonado por programação e tecnologia
+FrontEnd and Design
 ___________________________________________________ 
 -> 📫 contato:gustavolanduccilira@gmail.com
 ___________________________________________________
