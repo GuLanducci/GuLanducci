@@ -38,4 +38,4 @@ FrontEnd and Design</p>
     <a href="https://twitter.com/LanducceraG/"  target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://www.instagram.com/landvcci/"  target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-![Snake animation](https://github.com/GuLanducci/GuLanducci/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/rafaballerini/GuLanducci/blob/output/github-contribution-grid-snake.svg)
