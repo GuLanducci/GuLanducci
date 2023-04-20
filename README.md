@@ -25,16 +25,12 @@ Front End and UX|UI Design.</p>
   <img align="center" alt="Guto-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Guto-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Guto-figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
-  <img align="right" alt="Guto-gif" src="https://cdn.discordapp.com/attachments/1016471805986349126/1098454825420722290/gutinho1_1_Made_with_FlexClip.gif">
+  <img align="right" alt="Guto-gif" height="150" width="200" src="https://cdn.discordapp.com/attachments/1016471805986349126/1098454825420722290/gutinho1_1_Made_with_FlexClip.gif">
 </div>
 
 
 ##
 
- <a href="https://www.gulanducci.github.io/LinkPage/" target="_blank">LinkPage | Contact </a>
- 
- <hr>
- 
 <div>
   <a href="https://www.linkedin.com/in/gustavo-landucci-lira-2074ba245/"  target="_blank"><img  alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:gustavolanduccilira@gmail.com"  target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
