@@ -8,7 +8,7 @@ Front End and UX|UI Design.</p>
   srcset="https://github-readme-stats.vercel.app/api?username=GuLanducci&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GuLanducci&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuLanducci&show_icons=true" />
 </picture>
 <picture>
   <source
