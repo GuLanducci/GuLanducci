@@ -25,8 +25,7 @@ Front End and UX|UI Design.</p>
   <img align="center" alt="Guto-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Guto-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Guto-figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
-<br>
-  <img align="right" alt="Guto-gif" height="85" width="100" src="https://cdn.discordapp.com/attachments/1016471805986349126/1098454825420722290/gutinho1_1_Made_with_FlexClip.gif">
+  <img align="right" alt="Guto-gif" height="85" width="100" margin-top="10px" src="https://cdn.discordapp.com/attachments/1016471805986349126/1098454825420722290/gutinho1_1_Made_with_FlexClip.gif">
 </div>
 
 
