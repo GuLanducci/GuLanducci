@@ -3,18 +3,6 @@
 <p  align="center">Nerd passionate about programming, development with technologies
 Front End and UX|UI Design.</p>
 <hr>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=GuLanducci&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuLanducci&show_icons=true" />
-</picture>
-<picture>
-  <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GuLanducci&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=javascript,html,css,python,react&langs_count=8&layout=compact&hide_progress=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuLanducci&show_icons=true"/>
-</picture>
 <hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
